@@ -4,14 +4,14 @@
     "title": "Mastering React Router",
     "content": "React Router is a powerful library for routing in React applications...",
     "authorId": "a1",
-    "image": "/assets/react-router.jpg"
+    "image": "/assets/react-router.jpg.avif"
   },
   {
     "id": "2",
     "title": "Tailwind Tips for Beginners",
     "content": "Tailwind CSS is a utility-first CSS framework for rapidly building...",
     "authorId": "a2",
-    "image": "/assets/tailwind.jpg"
+    "image": "/assets/tailwind.jpg.avif"
   },
   {
     "id": "3",
