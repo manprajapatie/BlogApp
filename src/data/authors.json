@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "How to build a blog with React",
+    "authorId": "a1",
+    "content": "This is a blog post.",
+    "image": "/assets/blog1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Another blog post",
+    "authorId": "a2",
+    "content": "More content here.",
+    "image": "/assets/blog2.jpg"
+  }
+]
