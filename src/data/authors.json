@@ -1,16 +1,14 @@
 [
   {
-    "id": "1",
-    "title": "How to build a blog with React",
-    "authorId": "a1",
-    "content": "This is a blog post.",
-    "image": "/assets/blog1.jpg"
+    "id": "a1",
+    "name": "Jane Doe",
+    "bio": "Frontend developer and React enthusiast.",
+    "profilePic": "/assets/jane.jpg"
   },
   {
-    "id": "2",
-    "title": "Another blog post",
-    "authorId": "a2",
-    "content": "More content here.",
-    "image": "/assets/blog2.jpg"
+    "id": "a2",
+    "name": "John Smith",
+    "bio": "CSS wizard and Tailwind evangelist.",
+    "profilePic": "/assets/john.jpg"
   }
 ]
